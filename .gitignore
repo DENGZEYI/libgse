@@ -64,3 +64,6 @@ test-suite.log
 *.trs
 test-driver
 build
+
+# vscode
+.vscode/
