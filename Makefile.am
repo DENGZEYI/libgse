@@ -6,8 +6,7 @@
 
 SUBDIRS = \
 	src \
-	test \
-	app
+	test
 
 dist_doc_DATA = \
 	AUTHORS \
